@@ -20,8 +20,8 @@ Od 23. června se střetlo několik rakouských a pruských předních stráží
 
 Rakušané v tomto prvním větším boji ztratili 13 důstojníků, 264 muže a 13 koní. Ztráty na pruské straně byly 4 důstojníci, 46 mužů a 8 koní.
 
-##Důležité konflikty:
-###Bitva u Náchoda:
+## Důležité konflikty:
+### Bitva u Náchoda:
 Bitva u Náchoda (Vysokova či Václavic) byla svedena 27. června 1866 mezi pruským V. armádním sborem generála pěchoty Karla von Steinmetze (celkem 28 400 mužů), jehož předvoj obsadil v ranních hodinách výšiny na Brance, a rakouským VI. armádním sborem podmaršálka Wilhelma barona Ramminga (27 150 mužů). Ten postupoval se svými čtyřmi brigádami od Opočna přes Nové Město n. M. k Šonovu a Provodovu.
 
 V 8,45 hod. rozvinul generálmajor Hertweck své jednotky (41. a 56. pěší pluk společně s praporem polních myslivců č. 25) pod svahy Dobenína a zaútočil z nevýhodného postavení od Šonova na evangelický kostel a na osadu Václavice. Postup však byl zastaven a Rakušané byli nuceni stáhnout se až do Šonova, kam již v tu dobu dorazila brigáda plukovníka Jonáka (20. a 60. pěší pluk a prapor polních myslivců č. 14). Jonák společně s částí Hertweckovy brigády zaútočil severovýchodním směrem na Václavice a lesík nad dnešním nádražím, 200 m severozápadně odtud. Zároveň přibyla na bojiště rakouská brigáda generálmajora Rosenzweiga (pěší pluk č. 4 a 55 a prapor polních myslivců č. 17), která z pochodu přešla do útoku a podpořila postupující formace. Prusové, překvapeni mohutným náporem, ustoupili v celé šíři fronty až za novoměstskou silnici.
@@ -34,7 +34,7 @@ Severně a severovýchodně od Václavic se však v tuto dobu, okolo 14. hodiny,
 
 Rakouský VI. armádní sbor ztratil v bitvě u Náchoda 234 důstojníků, 5 487 mužů a 432 koní. Pruské ztráty byly 62 důstojníků, 1 060 mužů a 222 koní.
 
-###Bitva u Trutnova
+### Bitva u Trutnova
 Rakouská Severní armáda pod vedením polního zbrojmistra Ludwiga von Benedeka postupovala od Olomouce do východních Čech. X. armádní sbor podmaršálka Ludwiga von Gablenze vyrazil v časných ranních hodinách 27. června 1866 ze svého postavení mezi Jaroměří a Dubencem směrem k Trutnovu. Jako první byla na čele brigáda plukovníka Mondela (pěší pluk č. 10 a 24 a prapor polních myslivců č. 12).
 
 V 8,30 hod. obsadila Mondelova brigáda jižně od města Trutnov výšiny Šibeník, Janský vrch a Chmelnici. Na její levé křídlo se zařadil 2. dragounský pluk, který ustupoval ze svého postavení od Královce a Petříkovic před pochodujícím pruským I. armádním sborem generála Adolfa von Bonina. Jeho předvoj pronikl do města v 10 hodin. Okolo 11. hodiny, kdy byl Trutnov plný Prusů, zaútočil na město 12. prapor polních myslivců společně s 24. pěším plukem. Přesilou však byli odraženi. Manévr Windischgrätzových dragounů a následná jezdecká bitva s pruskými dragouny na polích před městem zabránily nepříteli provést patřičný průzkum. Po 11. hodině dorazil na bojiště podmaršálek Gablenz. Ihned nařídil stažení Mondelovy brigády z neudržitelného postavení u trutnovských výšin k Novému Rokytníku, kde v bezpečí vyčká příchodu posil. Po 14. hodině přichází brigáda plukovníka Grivičiče (pěší pluk č. 2 a 23 a prapor polních myslivců č. 16), unavená rychlým přesunem v letním horku. Pruský generál Bonin v mylném domnění vítězství vydal rozkaz k postupu na Pilníkov.
@@ -43,7 +43,7 @@ Po dvou nevydařených čelních útocích Grivičičovy brigády proti levému 
 
 Ztráty v bitvě u Trutnova činily na rakouské straně 191 důstojníků, 4 596 mužů a 109 koní. Prusové ztratili 56 důstojníků, 1 282 mužů a 78 koní.
 
-###Bitva u České Skalice 
+### Bitva u České Skalice 
 Po prohrané bitvě u Náchoda se VI. armádní sbor stáhl 27. června 1866 k České Skalici a obsadil výšiny nad městem mezi nádražím a obcí Zlíč. V časných ranních hodinách 28. června 1866 byl tento sbor vystřídán VIII. armádním sborem arcivévody Leopolda. I přes rozkaz vrchního velitele rakouské Severní armády polního zbrojmistra Ludwiga von Benedeka, aby se VIII. sbor stáhl z nevýhodného postavení nad řekou Úpou, zaútočil okolo 10. hodiny arcivévoda Leopold, aniž by o tom informoval své brigádní velitele, jedním praporem 75. pěšího pluku proti nastupujícím formacím pruského V. armádního sboru generála pěchoty Karla von Steinmetze. Ani podpora brigády generálmajora Gustava Fragnerna (pěší pluk č. 15 a 77 a prapor polních myslivců č. 5), který vyslal 5. myslivecký prapor přímo proti bažantnici Dubno a železničnímu náspu, vedoucímu z České Skalice na Starkoč, nezabránila katastrofě. Generál Fragnern následně vyslal na podporu myslivců 15. a 77. pěší pluk a brigádní dělostřeleckou zálohu. Při neúspěšném útoku ve směru na bažantnici byla celá brigáda rozprášena a padl také její velitel.
 
 Zbytky rakouských jednotek začaly ustupovat. Okolo 12. hodiny se vydala do protiútoku brigáda plukovníka Kreysserna (pěší pluk č. 21 a 32 a prapor polních myslivců č. 24). Nejprve postupoval 21. pěší pluk a za ním 32. pěší pluk. V ohybu trati se oba pluky dostaly do křížové palby a byly rozdrceny. Zde zemřel velitel brigády plukovník Kreyssern.
@@ -54,7 +54,7 @@ Ve 14 hodin dorazily na bojiště od Náchoda hlavní síly pruského V. armádn
 
 Během dvouhodinové bitvy ztratil rakouský VIII. armádní sbor 205 důstojníků, 5 372 mužů a 197 koní. Ztráty Prusů činily 62 důstojníků, 1 300 mužů a 26 koní.
 
-###Bitva u Svinišťan
+### Bitva u Svinišťan
 Po vyhrané bitvě u České Skalice postupovaly hlavní síly pruského V. armádního sboru generála Steinmetze dne 29. června 1866 přes Zlíč a Chvalkovice k Choustníkovu Hradišti. Pruský VI. armádní sbor pod velením generála Mutia obsadil Českou Skalici a poté pochodoval za V. sborem. K ochraně levého křídla postupujícího V. sboru byla vyčleněna 20. brigáda plukovníka Witticha a dva pluky dragounů plukovníka Wnucka.
 
 Okolo 16. hodiny nasadil proti přicházejícím Prusům u Velkého Třebešova velitel IV. armádního sboru podmaršálek Festetics brigádu plukovníka Poecka (pěší pluk č. 37 a 51 a prapor polních myslivců č. 8). Nejtěžší boje se odehrávaly u svinišťanského dvora obsazeného 37. pěším plukem a sebučského ovčína, kde stála sborová dělostřelecká záloha tvořená částí 4. dělostřeleckého pluku. Brigáda arcivévody Josefa (pěší pluk č. 67 a 68 a. prapor polních myslivců č. 30) zaujala postavení jižně od Svinišťan mezi řekou Úpou a nynější hlavní silnicí k Jaroměři. V záloze u Sebuče stála brigáda generálmajora Brandensteina (pěší pluk č. 12 a 26 a prapor polních myslivců č. 27).
